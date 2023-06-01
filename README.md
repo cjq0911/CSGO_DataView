@@ -1,5 +1,6 @@
 # CSGO_DataView
 
+![图片](https://github.com/cjq0911/CSGO_DataView/assets/121212157/95c8896e-3760-4a56-a490-c23b8404cfc3)
 
 
 ## Introduction：
