@@ -19,7 +19,8 @@
 
 - 懒人打包版数据集 :pushpin:[蓝奏云](https://wwwt.lanzoue.com/iwnnX0xwcf7a)
 
-![2](image\2.jpg)
+<img src="image\2.jpg" alt="2" style="zoom:80%;" />
+
 >>>>>>> 
 
 ## 🔍 What CAN I DO?
@@ -28,4 +29,4 @@
 -    WORD : :pushpin:[蓝奏云](https://wwwt.lanzoue.com/ixex20xwcmch ) | 密码:cgsv
 -    可以参考数据集作者官方可视化（[我是抄的bushi](https://www.kaggle.com/code/skihikingkevin/pistol-round-analyses)🤗
 
-![3](image\3.jpg)
+<img src="image\3.jpg" alt="3" style="zoom:80%;" />
