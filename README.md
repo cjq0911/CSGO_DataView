@@ -1,4 +1,4 @@
-#                      					                    <center>🎮CSGO数据可视化🎮</center>
+#                      					                    <h1><div align="center">🎮CSGO数据可视化🎮</div><h1>
 
 >>
 
