@@ -1,4 +1,4 @@
-#                      					🎮CSGO数据可视化🎮
+#                      					                    <center>🎮CSGO数据可视化🎮</center>
 
 >>
 
