@@ -1,5 +1,5 @@
 # CSGO_DataView
-<img src="image/1.jpg" alt="1.jpg" style="zoom:67%;" />
+<img src="image/1.jpg" alt="1.jpg" style="zoom:37%;" />
 
 
 ## Introduction：
