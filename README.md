@@ -2,8 +2,7 @@
 
 >>
 
-
-<img src="image\1.jpg" alt="image/1.jpg" style="zoom:60%;" />
+<img src="https://s1.ax1x.com/2023/06/01/p9zZss0.md.jpg" alt="image/1.jpg" style="zoom:80%;" />
 
 
 
@@ -19,7 +18,7 @@
 
 - 懒人打包版数据集 :pushpin:[蓝奏云](https://wwwt.lanzoue.com/iwnnX0xwcf7a)
 
-<img src="image\2.jpg" alt="2" style="zoom:80%;" />
+<img src="https://s1.ax1x.com/2023/06/01/p9zZrMq.md.jpg" alt="2" style="zoom:100%;" />
 
 >>>>>>> 
 
@@ -29,4 +28,4 @@
 -    WORD : :pushpin:[蓝奏云](https://wwwt.lanzoue.com/ixex20xwcmch ) | 密码:cgsv
 -    可以参考数据集作者官方可视化（[我是抄的bushi](https://www.kaggle.com/code/skihikingkevin/pistol-round-analyses)🤗
 
-<img src="image\3.jpg" alt="3" style="zoom:80%;" />
+<img src="https://s1.ax1x.com/2023/06/01/p9zZBzn.jpg" alt="3" style="zoom:80%;" />
