@@ -2,7 +2,7 @@
 
 >>
 
-<img src="https://s1.ax1x.com/2023/06/01/p9zZss0.md.jpg" alt="image/1.jpg" style="zoom:80%;" />
+<img src="https://s1.ax1x.com/2023/06/01/p9zZss0.jpg" alt="image/1.jpg" style="zoom:100%;" />
 
 
 
@@ -18,7 +18,7 @@
 
 - 懒人打包版数据集 :pushpin:[蓝奏云](https://wwwt.lanzoue.com/iwnnX0xwcf7a)
 
-<img src="https://s1.ax1x.com/2023/06/01/p9zZrMq.md.jpg" alt="2" style="zoom:100%;" />
+<img src="https://s1.ax1x.com/2023/06/01/p9zZrMq.jpg" alt="2" style="zoom:80%;" />
 
 >>>>>>> 
 
