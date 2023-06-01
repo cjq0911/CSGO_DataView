@@ -1,4 +1,4 @@
-# CSGO_DataView
+<center># CSGO_DataView</center>
 <img src="image/1.jpg" alt="1.jpg" style="zoom:37%;" />
 
 
@@ -14,7 +14,7 @@
 
 - 懒人打包版数据集 :pushpin:[蓝奏云](https://wwwt.lanzoue.com/iwnnX0xwcf7a)
 
-  
+  <img src="image/2.jpg" alt="2.jpg" style="zoom:67%;" />
 
 ## What CAN I DO?
 
